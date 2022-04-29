@@ -2,7 +2,7 @@
 **简介**
 
 ![About me](https://img.shields.io/badge/About%20me-000?&logo=About.me&labelColor=000)<br />
-👨‍💻全栈菜鸟，爱好美女。日常出来关注前后端、移动/桌面端之外，也关注 Web3.0/元宇宙/区块链/NFT，Lowcode/Nocode 等新兴技术和自媒体等行业、。
+👨‍💻全栈菜鸟。日常除了关注前后端、移动/桌面端之外，也关注 Web3.0/元宇宙/区块链/NFT，Lowcode/Nocode 等新兴技术和自媒体等行业。
 
 **网站**
 
@@ -42,7 +42,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&labelColor=000)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant%20Design&labelColor=000)
 
-![](https://img.shields.io/badge/Server:-cadetblue)
+![](https://img.shields.io/badge/BE:-cadetblue)
 ![NextJS](https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000)
 ![NestJS](https://img.shields.io/badge/Nest.js-000?&logo=NestJS&labelColor=000)
 ![Prisma](https://img.shields.io/badge/Prisma-000?&logo=Prisma&labelColor=000)
@@ -59,13 +59,13 @@
 ![ECharts](https://img.shields.io/badge/-Apache%20ECharts-000?&logo=Apache%20ECharts&labelColor=000)
 
 ![](https://img.shields.io/badge/Web3:-yellowgreen)
-![ethers.js](https://img.shields.io/badge/ethers.js-000?&logo=ethereum&labelColor=000)
-![web3.js](https://img.shields.io/badge/web3.js-000?&logo=web3dotjs&labelColor=000)
 ![Solidity](https://img.shields.io/badge/Solidity-000?&logo=Solidity&labelColor=000)
+![web3.js](https://img.shields.io/badge/web3.js-000?&logo=web3dotjs&labelColor=000)
+![ethers.js](https://img.shields.io/badge/ethers.js-000?&logo=ethereum&labelColor=000)
 
 ![](https://img.shields.io/badge/Other:-chartreuse)
-![Hugo](https://img.shields.io/badge/Hugo-000?&logo=Hugo&labelColor=000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?&logo=TensorFlow&labelColor=000)
+![Hugo](https://img.shields.io/badge/Hugo-000?&logo=Hugo&labelColor=000)
 
 **社交**
 
